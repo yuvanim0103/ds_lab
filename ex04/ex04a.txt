@@ -1,0 +1,50 @@
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push:10
+Element pushed: 10
+
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push:20
+Element pushed: 20
+
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push:30
+Element pushed: 30
+
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+Popped element: 30
+
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack is empty.
+20'>10'>NULL
+
+Stack Operartions Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
