@@ -1,0 +1,36 @@
+Enter how many students: 3
+
+Enter name and roll number for student 0: Arun
+101
+
+Enter name and roll number for student 1: Bala
+102
+
+Enter name and roll number for student 2: Chitra
+103
+
+Enter marks of student 0 for subject 0: 85
+
+Enter marks of student 0 for subject 1: 90
+
+Enter marks of student 0 for subject 2: 78
+
+Enter marks of student 1 for subject 0: 92
+
+Enter marks of student 1 for subject 1: 88
+
+Enter marks of student 1 for subject 2: 81
+
+Enter marks of student 2 for subject 0: 76
+
+Enter marks of student 2 for subject 1: 95
+
+Enter marks of student 2 for subject 2: 89
+
+Total marks obtained by student Arun are 253
+Total marks obtained by student Bala are 261
+Total marks obtained by student Chitra are 260
+Student Bala got maximum marks = 92 in Subject: 0
+Student Chitra got maximum marks = 95 in Subject: 1
+Student Chitra got maximum marks = 89 in Subject: 2
+Bala obtained the total highest marks.
